@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/blade-dice/static/css/main.4258f13c.chunk.css",
+    "main.js": "/blade-dice/static/js/main.843ce5e6.chunk.js",
+    "main.js.map": "/blade-dice/static/js/main.843ce5e6.chunk.js.map",
+    "runtime-main.js": "/blade-dice/static/js/runtime-main.3b44828f.js",
+    "runtime-main.js.map": "/blade-dice/static/js/runtime-main.3b44828f.js.map",
+    "static/js/2.c7e07860.chunk.js": "/blade-dice/static/js/2.c7e07860.chunk.js",
+    "static/js/2.c7e07860.chunk.js.map": "/blade-dice/static/js/2.c7e07860.chunk.js.map",
+    "index.html": "/blade-dice/index.html",
+    "static/css/main.4258f13c.chunk.css.map": "/blade-dice/static/css/main.4258f13c.chunk.css.map",
+    "static/js/2.c7e07860.chunk.js.LICENSE.txt": "/blade-dice/static/js/2.c7e07860.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b44828f.js",
+    "static/js/2.c7e07860.chunk.js",
+    "static/css/main.4258f13c.chunk.css",
+    "static/js/main.843ce5e6.chunk.js"
+  ]
+}
